@@ -1,0 +1,3 @@
+[Weapons]
+weapon_rifle = Ak-47
+weapon_rifle_desc=Of course hat kid needed a gun. Press [button:badge] to aim, [button:interact] to reload, and [button:attack] to fire.
